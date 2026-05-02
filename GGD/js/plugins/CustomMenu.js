@@ -368,7 +368,7 @@
     backButtonScope: p["BackButtonScope"] || "all",
     showGold: p["ShowGoldWindow"] === "true",
     frameToggle: p["FrameToggleMode"] === "true",
-    audioLabel: p["AudioSubmenuLabel"] || "Audio",
+    audioLabel: p["AudioSubmenuLabel"] || "Звук",
     debug: debugEnabled,
     menuIcons: (() => {
       const icons = {};
@@ -440,7 +440,7 @@
       return images;
     })(),
     audioMaster: p["AudioMasterVolumeEnabled"] === "true",
-    audioResetLabel: p["AudioResetLabel"] || "Reset to Defaults",
+    audioResetLabel: p["AudioResetLabel"] || "Отменить Изменения",
     audioPreview: p["AudioPreviewEnabled"] === "true",
     previewBgm: p["AudioPreviewBgm"] || "",
     previewBgs: p["AudioPreviewBgs"] || "",
