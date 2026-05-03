@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":false,"name":"Лаборатоия","order":1,"parentId":0,"scrollX":1312.5,"scrollY":747},
 {"id":2,"expanded":true,"name":"Озеро","order":2,"parentId":0,"scrollX":1312.6666666666667,"scrollY":654.3333333333334,"quick":false},
-{"id":3,"expanded":true,"name":"Город","order":5,"parentId":0,"scrollX":1072,"scrollY":1296,"quick":false},
+{"id":3,"expanded":true,"name":"Город","order":5,"parentId":0,"scrollX":1324.5,"scrollY":1173,"quick":false},
 {"id":4,"expanded":false,"name":"Подводный уровень","order":3,"parentId":2,"scrollX":540.6666666666666,"scrollY":311,"quick":false},
 {"id":5,"expanded":true,"name":"Пекарь","order":10,"parentId":0,"scrollX":1312.5,"scrollY":747,"quick":false},
 {"id":6,"expanded":false,"name":"Огород","order":11,"parentId":5,"scrollX":1312.5,"scrollY":747,"quick":false},
